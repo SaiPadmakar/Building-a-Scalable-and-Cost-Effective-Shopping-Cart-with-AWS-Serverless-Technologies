@@ -1,5 +1,4 @@
 # Building-a-Scalable-and-Cost-Effective-Shopping-Cart-with-AWS-Serverless-Technologies
-Note: when you write your report, please remove the explanation (…) under each section.
 Team number: OR6
 Student name(s): Sai Padmakar Kasindula (UHID: 2185950), Naga Badra Kali
 Mylavarapu (UHID: 2183705)

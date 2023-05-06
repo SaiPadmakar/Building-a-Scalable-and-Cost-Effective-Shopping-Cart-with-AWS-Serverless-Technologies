@@ -1,9 +1,9 @@
 # Building-a-Scalable-and-Cost-Effective-Shopping-Cart-with-AWS-Serverless-Technologies
+
 Team number: OR6
-Student name(s): Sai Padmakar Kasindula (UHID: 2185950), Naga Badra Kali
-Mylavarapu (UHID: 2183705)
-Project title: Building a Scalable and Cost-Effective Shopping Cart with AWS
-Serverless Technologies
+
+Student name(s): Sai Padmakar Kasindula (UHID: 2185950), Naga Badra Kali Mylavarapu (UHID: 2183705)
+
 ------------------------------------------------------------------------------------------------------------
 ---------
 # 1. Project background and related work
@@ -40,6 +40,6 @@ Week 4: Test and debug the application and finalize the project report.
 AWS DynamoDB, AWS Lambda, AWS API Gateway, AWS Cognito, AWS Amplify, React,
 JavaScript, AWS CloudFront, AWS S3, AWS SQS, AWS SNS, AWS CloudWatch.
 
-# 6. Responsibilities for each team member (only required for team project)
+# 6. Responsibilities for each team member
 Sai Padmakar: Designing API for shopping cart service and for product mock service.
 Naga Badra Kali Mylavarapu: Building and deploying backend and frontend.

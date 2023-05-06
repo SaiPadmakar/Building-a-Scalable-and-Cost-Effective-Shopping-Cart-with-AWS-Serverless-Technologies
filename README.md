@@ -42,4 +42,5 @@ JavaScript, AWS CloudFront, AWS S3, AWS SQS, AWS SNS, AWS CloudWatch.
 
 # 6. Responsibilities for each team member
 Sai Padmakar: Designing API for shopping cart service and for product mock service.
+
 Naga Badra Kali Mylavarapu: Building and deploying backend and frontend.
